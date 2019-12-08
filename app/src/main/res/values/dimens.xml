@@ -2,5 +2,5 @@
 <resources>
     <dimen name="input_h">50dp</dimen>
     <dimen name="input_mb">25dp</dimen>
-    <dimen name="home_h">160dp</dimen>
+    <dimen name="home_h">140dp</dimen>
 </resources>

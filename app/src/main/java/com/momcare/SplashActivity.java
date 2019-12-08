@@ -19,7 +19,7 @@ public class SplashActivity extends BaseActivity {
             public void run() {
                 gotoActivity(LoginActivity.class,true);
             }
-        },1000);
+        },5000);
 
     }
 }
